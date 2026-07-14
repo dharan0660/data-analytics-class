@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <user_id>U001</user_id>
+    <username>john_doe</username>
+    <email>john@example.com</email>
+    <profile>
+      <first_name>John</first_name>
+      <last_name>Doe</last_name>
+      <age>30</age>
+      <country>USA</country>
+    </profile>
+    <account_status>active</account_status>
+    <created_at>2023-01-15</created_at>
+  </user>
+  <user>
+    <user_id>U002</user_id>
+    <username>jane_smith</username>
+    <email>jane@example.com</email>
+    <profile>
+      <first_name>Jane</first_name>
+      <last_name>Smith</last_name>
+      <age>28</age>
+      <country>UK</country>
+    </profile>
+    <account_status>active</account_status>
+    <created_at>2023-02-20</created_at>
+  </user>
+  <user>
+    <user_id>U003</user_id>
+    <username>mike_wilson</username>
+    <email>mike@example.com</email>
+    <profile>
+      <first_name>Mike</first_name>
+      <last_name>Wilson</last_name>
+      <age>35</age>
+      <country>Canada</country>
+    </profile>
+    <account_status>inactive</account_status>
+    <created_at>2023-03-10</created_at>
+  </user>
+</users>
